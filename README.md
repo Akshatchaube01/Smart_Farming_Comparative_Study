@@ -1,0 +1,5 @@
+# Smart Farming Comparative Study :
+The use of information and communication technologies in agriculture to increase productivity, efficiency, and sustainability is known as smart farming. By using data-driven insights and predictive analytics, smart farming increases the efficiency of decision-making processes, resource allocation, and overall agricultural systems. This study compares the use of the algorithms Long Short-Term Memory (LSTM), Support Vector Machine (SVM), Deep Belief Network, Naive Bayes, Artificial Neural Network (ANN), and Gated Recurrent Unit (GRU) in optimizing agricultural operations. The study highlights how smart farming has the ability to transform traditional agricultural methods, resulting in sustainable, higher-yield output while minimizing resource loss and environmental impact. Smart farming has emerged as a new approach for modernizing and optimizing agricultural practices through the integration of cutting-edge technology, with a focus on machine learning in particular.
+
+# Data set used :
+https://www.kaggle.com/code/theeyeschico/crop-analysis-and-prediction/notebook
